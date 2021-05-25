@@ -27,10 +27,3 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
-<br>
-
-<p align='center'>
-  <a href="https://github.com/BoYeonJang" target="nofollow">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ganghyeonseo&count_bg=%237296CB&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
