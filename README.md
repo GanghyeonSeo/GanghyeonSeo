@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=GanghyeonSeo&count_private=true&show_icons=true&theme=tokyonight&bg_color=70,1A1B27,050F2C,22272E"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=GanghyeonSeo&count_private=true&show_icons=true&theme=tokyonight&bg_color=50,1A1B27,050F2C,22272E"/>
   </a>
 </p>
 <br>
