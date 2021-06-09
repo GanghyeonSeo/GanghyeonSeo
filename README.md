@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&text=Hello😀&animation=fadeIn&fontAlign=85&fontSize=50&fontAlignY=35)
+
 <p align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=GanghyeonSeo&count_private=true&show_icons=true&theme=tokyonight&bg_color=50,1A1B27,050F2C,22272E"/>
@@ -39,3 +41,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
 </p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&section=footer&color=timeGradient&height=100)
